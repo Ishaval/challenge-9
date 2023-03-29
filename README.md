@@ -1,30 +1,32 @@
-# README GENERATOR
+# README Generator
 
-    ## Description
-    Making usage of NODEJS and a serie of questions about your project, this code will generate a README.md for your porject
+A command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
 
-    ## Table of Contents
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [License](#license)
-    - [Contributing](#contributing)
-    - [Tests](#tests)
-    - [Questions](#questions)
+## Table of Contents
 
-    ## Installation
-    just got to the diploy app in <link>
+- [Installation](#installation)
+- [Usage](#usage)
+- [Demo](#demo)
+- [Questions](#questions)
 
-    ## Usage
-    making usage of the terminal using the comand line "node index.js" in the rigth folder, then follow the questions promted and enter your project information
+## Installation
 
-    ## License
-    This project is licensed under the N/A license.
+1. Clone the repository or download the source code
+2. Navigate to the project directory in your terminal
+3. Run `npm install` to install the required dependencies
 
-    ## Contributing
-    Use the base code and enter any additional feature or any correction use pulls request, it will be review and commited if is correct
+## Usage
 
-    ## Tests
-    enter in to the terminal following the usage info and test it with your own information
+1. In the terminal, navigate to the project directory
+2. Run `node index.js`
+3. Follow the prompts and provide the requested information about your project
+4. A README.md file will be generated in the project directory
 
-    ## Questions
-    If you have any questions, feel free to reach out to me at [juliannrra@outlook.es](mailto:juliannrra@outlook.es). You can also check out my GitHub profile at [https://github.com/Ishaval].
+## Demo
+
+Please refer to the following walkthrough video demonstrating the functionality of the README generator: [Walkthrough Video](https://drive.google.com/drive/folders/1i4_YMgPD-9kTbV3iHtqUx-MxIJf_6Sad?usp=sharing)
+
+## Questions
+
+For any questions, please reach out to [your_github_username](https://github.com/ishaval) or email me at juliannrra@outlook.es.
+
